@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Welcome to my personal website! I am a passionate and dedicated web developer with expertise in front-end and
+            back-end technologies.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5, CSS3, JavaScript</li>
+            <li>React, Vue.js</li>
+            <li>Node.js, Express.js</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <p>
+            <strong>Company Name, Position</strong><br>
+            Date - Date<br>
+            Description of your responsibilities and achievements.
+        </p>
+        <!-- Add more experiences as needed -->
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p>
+            <strong>University Name, Degree</strong><br>
+            Graduation Year<br>
+            Relevant details about your education.
+        </p>
+        <!-- Add more education details as needed -->
+    </section>
+
+    <footer>
+        <p>Contact: your.email@example.com | Phone: (123) 456-7890</p>
+    </footer>
+
+</body>
+
+</html>
